@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class StringToInt {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+	/*	We can convert String to an int in java using Integer.parseInt() method. To convert String into Integer,
+		we can use Integer.valueOf() method which returns instance of Integer class. */
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the string in number format: ");
