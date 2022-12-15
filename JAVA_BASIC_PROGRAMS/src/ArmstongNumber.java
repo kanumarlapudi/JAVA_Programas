@@ -1,4 +1,6 @@
 import java.util.*;
+import java.lang.Math;
+
 public class ArmstongNumber {
 
 	public static void main(String[] args) {
